@@ -195,7 +195,7 @@ begin
       if iKind = 1 then Item := '金毛狮甲:1';
       if iKind = 2 then Item := '传送银符:1';
    end;
-   if iCount > 0 then Item := '翠月魂:2';
+   if iCount > 0 then Item := '千年神石:2';
    Str := 'putsendermagicitem ' + Item;
    Str := Str + ' @比武东天王 4';
    print (Str);
