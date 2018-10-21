@@ -208,7 +208,7 @@ begin
    Str := Str + '_战胜_比武西域魔人,获得通关奖励_';
    Str := Str + Item;
    print (Str);
-   print ('putsendermagicitem 金元:10 @比武西域魔人 4');
+   //print ('putsendermagicitem 千年神石:10 @比武西域魔人 4');
 
    print ('say 下次我绝不手软');
 

@@ -96,9 +96,9 @@ begin
       if iKind = 10 then Str := '太极药水:1';
       if iKind = 11 then Str := '太极药水:1';
       if iKind = 12 then Str := '狐狸内丹三';
-      if iKind = 13 then Str := '金元:1';
-      if iKind = 14 then Str := '金元:2';
-      if iKind = 15 then Str := '金元:3';
+      if iKind = 13 then Str := '千年神石:1';
+      if iKind = 14 then Str := '千年神石:2';
+      if iKind = 15 then Str := '千年神石:3';
       if iKind = 16 then Str := '金元:4';
       if iKind = 17 then Str := '青盐精:10';
       if iKind = 18 then Str := '玉露丸:10';
