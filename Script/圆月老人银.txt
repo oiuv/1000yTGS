@@ -101,8 +101,8 @@ begin
       if iKind = 15 then Str := '神秘箱子:1';
       if iKind = 16 then Str := '千年神石:1';
       if iKind = 17 then Str := '千年神石:2';
-      if iKind = 18 then Str := '千年神石:3';
-      if iKind = 19 then Str := '千年神石:4';
+      if iKind = 18 then Str := '金元:3';
+      if iKind = 19 then Str := '金元:4';
       if iKind = 20 then Str := '金元:5';
       if iKind = 21 then Str := '青盐精:10';
       if iKind = 22 then Str := '玉露丸:10';
